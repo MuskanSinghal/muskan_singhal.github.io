@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Muskan Singhal'
-subtitle: 'Always building something new.'
+subtitle: 'always building something.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Graduate Student based in Arizona, specializing in building software applications and working with Machine Learning Models.
+I'm a Graduate Student based in Arizona, specializing in building Software Applications and Data Science.
