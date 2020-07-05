@@ -5,13 +5,13 @@
 </h1>
 <p align="center">
   Link: <a href=https://muskansinghal.netlify.app/"> Portfolio </a>
-  <p>
+  <p align = "center">
   It is built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
     </p>
 </p>
 
 
-![demo](https://github.com/MuskanSinghal/muskan_singhal.github.io/tree/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/MuskanSinghal/v4/master/src/images/demo.png)
 
 
 ## 🛠 Installation & Set Up
