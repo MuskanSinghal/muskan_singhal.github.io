@@ -11,7 +11,7 @@
 </p>
 
 
-![demo](https://raw.githubusercontent.com/MuskanSinghal/v4/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/MuskanSinghal/muskan_singhal.github.io/src/images/demo.png)
 
 
 ## 🛠 Installation & Set Up
