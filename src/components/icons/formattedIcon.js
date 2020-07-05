@@ -5,6 +5,7 @@ import {
   IconCodepen,
   IconExternal,
   IconFolder,
+  IconFork,
   IconGitHub,
   IconInstagram,
   IconLinkedin,
@@ -12,6 +13,7 @@ import {
   IconLocation,
   IconLogo,
   IconPlayStore,
+  IconStar,
   IconTwitter,
   IconZap,
 } from '@components/icons';
@@ -26,6 +28,8 @@ const FormattedIcon = ({ name }) => {
       return <IconExternal />;
     case 'Folder':
       return <IconFolder />;
+    case 'Fork':
+      return <IconFork />;
     case 'GitHub':
       return <IconGitHub />;
     case 'Instagram':
@@ -40,6 +44,8 @@ const FormattedIcon = ({ name }) => {
       return <IconLogo />;
     case 'PlayStore':
       return <IconPlayStore />;
+    case 'Star':
+      return <IconStar />;
     case 'Twitter':
       return <IconTwitter />;
     case 'Zap':
