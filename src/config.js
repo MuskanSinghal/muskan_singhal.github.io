@@ -4,7 +4,7 @@ module.exports = {
     'Graduate Student based in Arizona, specializing in building software applications and working with Machine Learning Models.',
   siteKeywords:
     'Muskan Singhal,software engineer, back-end engineer, web developer, javascript, arizona state university',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://thirsty-johnson-0d3d69.netlify.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
