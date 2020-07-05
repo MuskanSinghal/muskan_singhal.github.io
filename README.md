@@ -9,7 +9,7 @@
 </p>
 
 
-![demo](https://github.com/MuskanSinghal/muskan_singhal.github.io/tree/master/src/images)
+![demo](https://github.com/MuskanSinghal/muskan_singhal.github.io/tree/master/src/images/logo.png)
 
 
 ## 🛠 Installation & Set Up
